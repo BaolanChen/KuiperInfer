@@ -73,27 +73,6 @@
 
 ## 项目贡献
 
-### 贡献者列表
-
-感谢以下同学对Kuiperinfer的付出
-- [zjhellofss](https://github.com/zjhellofss)
-- [liuxubit](https://github.com/liuxubit)
-- [Azusachan](https://github.com/Azusachan)
-- [wfs2010](https://github.com/wfs2010)
-- [mlmz](https://github.com/minleminzui)
-- [Tigerrr07](https://github.com/Tigerrr07)
-- [zyt1024](https://github.com/zyt1024)
-- [zpye](https://github.com/zpye)
-- [cmcamdy](https://github.com/cmcamdy)
-- [superCB](https://github.com/SuperCB)
-- [sanbuphy](https://github.com/sanbuphy)
-- [TypeFloat](https://github.com/TypeFloat)
-- [Jasmine-up](https://github.com/Jasmine-up)
-- [PerrySkywalker](https://github.com/PerrySkywalker)
-- [delve-wang](https://github.com/delve-wang)
-- [z-learner](https://github.com/z-learner)
-- [Meihongtao](https://github.com/Meihongtao)
-
 ### 如何参与项目贡献？
 1. 提交代码增加新功能或修改bug；
 2. 提出特别有用的建议；
